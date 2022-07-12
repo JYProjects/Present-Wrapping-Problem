@@ -1,0 +1,22 @@
+40 40
+20
+3 3	37 28	 False
+3 4	30 14	 False
+3 5	34 28	 False
+3 6	34 8	 False
+3 7	34 33	 False
+3 8	34 0	 False
+3 9	37 31	 False
+3 10	34 18	 False
+3 12	37 16	 False
+3 16	37 0	 False
+3 40	22 0	 False
+4 4	33 14	 False
+4 14	30 0	 False
+4 22	30 18	 False
+5 3	25 29	 False
+5 4	25 25	 False
+5 8	25 32	 False
+5 12	25 13	 False
+5 13	25 0	 False
+22 40	0 0	 False

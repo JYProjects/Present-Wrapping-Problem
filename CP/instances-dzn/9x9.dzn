@@ -1,0 +1,9 @@
+width_paper = 9;
+height_paper = 9;
+n_presents = 5;
+dim_presents = [|
+3, 3,|
+3, 4,|
+3, 5,|
+3, 6,|
+3, 9|];
