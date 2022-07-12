@@ -2,8 +2,8 @@
 CP and SMT implementation of the PWP
 
 ## Authors
-	Johnny Agosto - 0000930435
-	Chiara Malizia – 0000954488
+	Johnny Agosto 
+	Chiara Malizia 
 
 # **How to run** 
 
