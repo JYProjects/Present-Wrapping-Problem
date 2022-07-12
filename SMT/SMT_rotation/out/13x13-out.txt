@@ -1,0 +1,11 @@
+13 13
+9
+3 3	10 6	 False
+3 4	6 6	 True
+3 5	0 0	 True
+3 6	0 10	 True
+3 7	6 3	 True
+3 8	5 0	 True
+4 3	10 9	 True
+4 4	6 9	 False
+7 6	0 3	 True

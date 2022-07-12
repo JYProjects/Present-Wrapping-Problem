@@ -1,0 +1,23 @@
+34 34
+21
+3 3	18 12	 False
+3 4	31 11	 False
+3 5	31 6	 False
+3 6	25 9	 True
+3 7	0 12	 True
+3 8	23 6	 True
+3 9	14 6	 True
+3 10	21 12	 True
+3 11	7 12	 True
+3 12	22 0	 True
+3 13	0 27	 True
+3 14	0 6	 True
+3 21	13 27	 True
+3 22	0 0	 True
+3 25	0 9	 True
+3 34	0 3	 True
+4 4	5 30	 False
+4 5	0 30	 True
+4 11	23 30	 True
+4 14	9 30	 True
+12 34	0 15	 True
