@@ -1,0 +1,21 @@
+31 31
+19
+3 3	22 0	 False
+3 4	20 6	 True
+3 5	11 10	 True
+3 6	25 0	 False
+3 7	3 0	 True
+3 8	23 28	 True
+3 9	0 28	 True
+3 10	0 0	 False
+3 11	0 10	 True
+3 12	10 0	 True
+3 13	28 0	 False
+3 14	9 28	 True
+3 22	3 3	 True
+3 31	0 25	 True
+4 3	24 6	 False
+4 7	16 6	 False
+4 8	20 9	 True
+4 13	3 6	 True
+12 31	0 13	 True
