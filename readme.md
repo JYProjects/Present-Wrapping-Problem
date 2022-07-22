@@ -1,5 +1,5 @@
 # **Present Wrapping Problem**
-CP and SMT implementation of the PWP
+CP and SMT implementation of the PWP (Present Wrapping Problem)
 
 ## Authors
 	Johnny Agosto 
