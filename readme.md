@@ -1,9 +1,9 @@
 # **Present Wrapping Problem**
 CP and SMT implementation of the PWP (Present Wrapping Problem)
 
-## Authors
-	Johnny Agosto 
-	Chiara Malizia 
+Authors: 
+ * [Johnny Agosto](https://github.com/JayEnEn) 
+ * [Chiara Malizia](https://github.com/YukiKya) 
 
 # **How to run** 
 
